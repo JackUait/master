@@ -1,0 +1,1 @@
+export const debug = (obj = {}) => JSON.stringify(obj, null, 4)
